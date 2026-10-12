@@ -3,7 +3,7 @@ public class Calc {
     return a + b;
   }
 
-  public double mult(int a, int b) {
-    return ((double)a) * b;
+  public double mult(double a, double b) {
+    return a * b;
   }
 }
